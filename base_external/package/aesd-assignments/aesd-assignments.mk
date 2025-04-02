@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-AESD_ASSIGNMENTS_VERSION = '534c7cfa4b17787d2bb784032cddcdb949976290'
+AESD_ASSIGNMENTS_VERSION = 'e7e68177263433f7b73cd3cc236097f4648a07be'
 AESD_ASSIGNMENTS_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-HartnettMatt.git'
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
